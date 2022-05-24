@@ -102,3 +102,25 @@ body {
     background-color: #717171;
 }
 
+.footer {
+    display: flex;
+    justify-content:center;
+    height: 55px;
+    color: aliceblue;
+    padding: 15px;
+    margin: 20px ;
+    background-color: #434343;
+}
+
+.footer span {
+    margin-right: 10px;
+}
+
+.footer a:visited, a:link {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.footer a:hover {
+    color: aquamarine;
+}
