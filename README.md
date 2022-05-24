@@ -1,6 +1,6 @@
 # About
 
-A demo project to show hero slider using vanilla JS without library
+A demo project to show hero slider using vanilla JS, css, and html without library
 
 ## [Live Demo](https://slider-carousel.vercel.app/)
 
